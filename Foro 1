@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es>
+   <head>
+
+      <meta charset="UTF-8">
+      <meta name="description" content="List.io">
+      <meta name="robots" content="index,follow">
+      <title>LIsta de Compras</title>
+      <meta name="viewport" content="width=device-width, initial - scale=1.0"
+         
+
+   </head>
+   <body>
+       <header>
+        <h1> Lista de Compras</h1>
+    </header>
+    <main>
+        <section>
+            <article class="verduras">
+                <ul>
+                    <li class="title">Verduras</li>
+                    <ol>
+                        <li>Pimiento <img src="images/pimiento.png"></li>
+                        <li>Cebollin <img src="images/Cebollin.png"></li>
+                        <li>Berenjena <img src="images/berenjena.png"></li>
+                        <li>Lechuga <img src="images/lechuga.png"></li>
+                        <li>Limón <img src="images/limon.png"></li>
+                         <li>Ajo <img src="images/ajo.png"></li>
+                    </ol>
+                </ul>
+            </article>
+            <article class="Frutas">
+                <ul>
+                    <li class="title">Frutas</li>
+                    <ol>
+                        <li>Uva <img src="images/Uva.png"></li>
+                        <li>Durazno <img src="images/durazno.png" height="16px"></li>
+                        <li>Platano <img src="images/Platano.png"></li>
+                        <li>Mandarina <img src="images/Mandarina.png" alt=""></li>
+                        <li>Naranja <img src="images/Naranja.png" alt=""></li>
+                        <li>Lima <img src="images/Lima.png" alt=""></li>
+                    </ol>
+                </ul>
+            </article>
+            <article class="carnes">
+                <ul>
+                    <li class="title">Carnes y Mariscos</li>
+                    <ol>
+                        <li>Lomo de falda </u><img src="images/carne.png"></li>
+                        <li>Pierna de Pollo <img src="images/pierna-de-pollo.png"></li>
+                        <li>Alitas de Pollo <img src="images/alitas-de-pollo.png" alt=""></li>
+                        <li>Chuletas <img src="images/cerdo.png"></li>
+                         <li>Camaron <img src="images/camaron.png"></li>
+                          <li>Pescado <img src="images/pescado.png"></li>
+                    </ol>
+                </ul>
+            </article>
+            <article class="viveres">
+                <ul>
+                    <li class="title">Víveres</li>
+                    <ol>
+                        <li>Aceite <img src="images/aceite.png"></li>
+                        <li>Arroz <img src="images/arroz.png"></li>
+                        <li>Atun <img src="images/atun.png"></li>
+                        <li>Fideo <img src="images/fideo.png"></li>
+                    </ol>
+                </ul>
+            </article> 
+            
+            <article class="lacteos">
+                <ul>
+                    <li class="title">Lácteos</li>
+                    <ol>
+                        <li>Queso <img src="images/queso.png"></li>
+                        <li>Leche <img src="images/leche.png"></li>
+                        <li>Yogurt <img src="images/yogurt.png"></li>
+                    </ol>
+                </ul>
+            </article>  
+            <article class="limpieza">
+                <ul>
+                    <li class="title">Limpieza</li>
+                    <ol>
+                        <li>Desinfectante <img src="images/desinfectante.png"></li>
+                        <li>Detergente en liquido <img src="images/detergenteliquido.png"></li>
+                        <li>Detergente <img src="images/detergente.png"></li>
+                        <li>Fundas de Basura <img src="images/bolsa-de-reciclaje.png"></li>
+                    </ol>
+                </ul>
+            </article>  
+        </section>
+    </div>
+</main>
